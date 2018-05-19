@@ -1,6 +1,6 @@
 sbt-concat
 ==========
-[![Build Status](https://api.travis-ci.org/ground5hark/sbt-concat.png?branch=master)](https://travis-ci.org/ground5hark/sbt-concat)
+[![Build Status](https://api.travis-ci.org/buddho-io/sbt-concat.png?branch=master)](https://travis-ci.org/buddho-io/sbt-concat)
 
 [sbt-web] plugin for concatenating files together, using the sbt-web asset pipeline.
 
