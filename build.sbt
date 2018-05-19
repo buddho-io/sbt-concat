@@ -1,6 +1,6 @@
 lazy val `sbt-concat` = project in file(".")
 
-organization := "net.ground5hark.sbt"
+organization := "io.buddho.sbt"
 
 name := "sbt-concat"
 

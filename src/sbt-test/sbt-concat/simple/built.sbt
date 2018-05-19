@@ -1,7 +1,7 @@
 import com.typesafe.sbt.web.Import._
 import com.typesafe.sbt.web.Import.WebKeys._
 
-organization := "net.ground5hark.sbt"
+organization := "io.buddho.sbt"
 
 name := "sbt-concat-test"
 
